@@ -39,7 +39,6 @@ This keeps the load clear and stops list overload.
 Get the latest version on the **Releases** page:
 
 **Windows:** sector.exe
-**Linux (.deb):** sector.deb
 
 ## Install
 
