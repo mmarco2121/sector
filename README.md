@@ -8,6 +8,10 @@ Sectors is a simple desktop task manager built for focus.
 It uses time buckets instead of one long list. You drop tasks into clear zones so you see what matters now and what can wait.
 It is inspired by **Carl Pullein’s Time Sector System**, adapted into a desktop workflow.
 
+<p align="center">
+  <img src="sectors_app.png" alt="Sector logo" width="120" style="border-radius:16px;">
+</p>
+
 ## How it works
 
 Sectors gives you fixed buckets:
